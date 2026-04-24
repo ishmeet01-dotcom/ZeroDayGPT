@@ -93,3 +93,7 @@ VITE_API_BASE=http://localhost:8000
 - **🎨 Hacker UI** — Neon green terminal theme, ASCII banner, scanline overlay, blinking cursor
 - **🔐 Auth** — API key authentication on all endpoints
 - **🐳 Docker** — Full containerized deployment
+
+## Contributors
+
+- Ridhi Gupta | Developer |
